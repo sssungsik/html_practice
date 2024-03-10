@@ -1,0 +1,10 @@
+body {
+  background-color: azure;
+  text-align: center;
+}
+
+
+
+a:hover {
+  background-color: rgb(125, 191, 249);
+}

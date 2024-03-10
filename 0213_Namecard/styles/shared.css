@@ -1,0 +1,23 @@
+body {
+    background-color: azure;
+    text-align: center;
+  }
+  
+  h1 {
+    font-family: "Playfair Display", sans-serif;
+  }
+  
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(83, 75, 75);
+  }
+  
+  a {
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+  }
+  a:hover {
+    background-color: rgb(125, 191, 249);
+  }
+  
