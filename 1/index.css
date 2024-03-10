@@ -6,6 +6,8 @@ body {
 h1 {
   font-size: 52px;
   color: blueviolet;
+  text-shadow: 1px 1px 1px black;
+  
 }
 
 header {
