@@ -1,0 +1,57 @@
+body {
+  font-family: unset;
+  background-color: bisque;
+}
+
+h1 {
+  font-size: 52px;
+  color: blueviolet;
+}
+
+header {
+  text-align: center;
+  padding: 32px;
+}
+
+header img {
+  width: 300px;
+}
+main {
+  background-color: blueviolet;
+  padding: 32px;
+  margin: 32px auto;
+  width: 700px;
+  color: azure;
+  border-radius: 10px;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+li {
+  margin: 14px 0px;
+  padding-left: 10px;
+  border-left: 5px solid transparent;
+}
+
+.imp {
+  color:darkgoldenrod ;
+  border-color: azure;
+}
+a {
+  background-color: aliceblue;
+  color: black;
+  padding: 2px 5px;
+  border-radius: 5px;
+  text-decoration-line: none;
+}
+
+a:hover,
+a:active { 
+    background-color: burlywood;
+}
+.bold {
+  font-weight: bold;
+}
